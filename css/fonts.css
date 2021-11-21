@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'BPG2017DejaVuSans';
+    src: url('../fonts/BPG2017DejaVuSans.eot');
+    src: url('../fonts/BPG2017DejaVuSans.eot') format('embedded-opentype'),
+         url('../fonts/BPG2017DejaVuSans.woff2') format('woff2'),
+         url('../fonts/BPG2017DejaVuSans.woff') format('woff'),
+         url('../fonts/BPG2017DejaVuSans.ttf') format('truetype'),
+         url('../fonts/BPG2017DejaVuSans.svg#BPG2017DejaVuSans') format('svg');
+}
+@font-face {
+    font-family: 'BPG2017DejaVuSansCaps';
+    src: url('../fonts/BPG2017DejaVuSansCaps.eot');
+    src: url('../fonts/BPG2017DejaVuSansCaps.eot') format('embedded-opentype'),
+         url('../fonts/BPG2017DejaVuSansCaps.woff2') format('woff2'),
+         url('../fonts/BPG2017DejaVuSansCaps.woff') format('woff'),
+         url('../fonts/BPG2017DejaVuSansCaps.ttf') format('truetype'),
+         url('../fonts/BPG2017DejaVuSansCaps.svg#BPG2017DejaVuSansCaps') format('svg');
+}
